@@ -1,12 +1,17 @@
 {
-  "name": "ratehub/laravel-newrelic",
+  "name": "leasingmarkt/laravel-newrelic",
   "description": "A library for new relic tracking",
   "type": "library",
   "license": "Apache-2.0",
   "authors": [
     {
       "name": "Lee Robert",
-      "email": "lee.robert@ratehub.ca"
+      "email": "lee.robert@ratehub.ca",
+      "role": "Original package author"
+    },
+    {
+      "name": "LeasingMarkt.de GmbH",
+      "role": "Modifications author"
     }
   ],
   "suggest": {
